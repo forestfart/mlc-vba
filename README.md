@@ -1,2 +1,4 @@
 # mlc-vba
-Some VBA code made to speed-up document editing - Vba Word and Excel document automations
+
+VBA scripts for speed-up documents generation and enhance MS Office functionalities for
+MS Word, MS Excel nad MS Project
